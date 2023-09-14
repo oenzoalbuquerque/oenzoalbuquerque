@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Enzo👋
 
-- 🔭 Hoje trabalho com comércio
+- 🔭 Hoje trabalho com Call Center
 - 🌱 Estudando Desenvolvimento Front-end 
-- 📫 Contate-me no email: contato.enzoalbuquerque@gmail.com
+- 📫 Contate-me no email: contato@enzoalbuquerque.com.br
 - 😄 Pronouns: ele/dele
 
 <picture>
