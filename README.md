@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Enzo👋
 
-- 🔭 Hoje trabalho com Call Center
-- 🌱 Estudando Desenvolvimento Front-end 
+- 🔭 Atualmente trabalho como Expert Em Interação na Teleperformance
+- 🌱 Estudando Desenvolvimento Front-end
 - 📫 Contate-me no email: contato@enzoalbuquerque.com.br
 - 😄 Pronouns: ele/dele
 
